@@ -6,7 +6,10 @@ import java.util.Comparator;
 
 import edu.princeton.cs.introcs.StdDraw;
 import edu.princeton.cs.introcs.StdOut;
-
+/**
+*
+* @author Stylianos Sofokleous
+*/
 public class ColorManager extends Color{
 	
 	public ColorManager(int r, int g, int b, int a) {
